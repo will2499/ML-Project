@@ -1,1 +1,1 @@
-# ML-Project
+# Problem statement. Tornadoes can vary dramatically in the damage they cause, the goal is to determine if physical, timing, and/or geographical characteristics can distinguish higher-damage events from lower-damage events. Emergency Managers, Researchers, or professional meteorologists could use the historical model framework as a risk analysis tool to help identify patterns that are initially not obvious from individual events or seasons alone.
